@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Oracle Requests Geolocation</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 08:40:31</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>581f32f2db2732c02ab570d9bf96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Oracle Requests Geolocation</sys_name>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sys_properties_category_581f32f2db2732c02ab570d9bf96199a</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-28 08:40:31</sys_updated_on>
+        <title><![CDATA[<p><b>Geolocation Properties for Oracle Requests</b></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=581f32f2db2732c02ab570d9bf96199a"/>
+</record_update>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="7a2f7e36db2732c02ab570d9bf9619a0" sys_domain="global" table="x_spog_oracle_req_sfuests_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:40:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e2f7e36db2732c02ab570d9bf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_spog_oracle_req_sfuests_task" name="x_spog_oracle_req_sfuests_task" sys_domain="global" view="Default view">7a2f7e36db2732c02ab570d9bf9619a0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_spog_oracle_req_sfuests_task" sys_domain="global" view="Default view">fa2f7e36db2732c02ab570d9bf96199d</sys_ui_section>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:40:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:40:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c72f7e36db2732c02ab570d9bf9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_spog_oracle_req_sfuests_task" name="x_spog_oracle_req_sfuests_task" sys_domain="global" view="Default view">7a2f7e36db2732c02ab570d9bf9619a0</sys_ui_form>
+            <sys_ui_section caption="Manual" display_value="Manual" name="x_spog_oracle_req_sfuests_task" sys_domain="global" view="Default view">c32f7e36db2732c02ab570d9bf9619a1</sys_ui_section>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:40:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:41:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b2f7e36db2732c02ab570d9bf9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_spog_oracle_req_sfuests_task" name="x_spog_oracle_req_sfuests_task" sys_domain="global" view="Default view">7a2f7e36db2732c02ab570d9bf9619a0</sys_ui_form>
+            <sys_ui_section caption="Automatic" display_value="Automatic" name="x_spog_oracle_req_sfuests_task" sys_domain="global" view="Default view">372f7e36db2732c02ab570d9bf9619a3</sys_ui_section>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:41:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:41:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>683f7e36db2732c02ab570d9bf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_spog_oracle_req_sfuests_task" name="x_spog_oracle_req_sfuests_task" sys_domain="global" view="Default view">7a2f7e36db2732c02ab570d9bf9619a0</sys_ui_form>
+            <sys_ui_section caption="Field Controls" display_value="Field Controls" name="x_spog_oracle_req_sfuests_task" sys_domain="global" view="Default view">e03f7e36db2732c02ab570d9bf9619a5</sys_ui_section>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:41:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_spog_oracle_req_sfuests_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:40:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a2f7e36db2732c02ab570d9bf9619a0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>x_spog_oracle_req_sfuests_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7a2f7e36db2732c02ab570d9bf9619a0</sys_update_name>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:41:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

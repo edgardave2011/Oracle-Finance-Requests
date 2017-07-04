@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <collection>x_spog_oracle_requests_request</collection>
+        <condition table="x_spog_oracle_requests_request">active=true^contact_typeNOT INself-service,Event^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="contact_type" goto="false" newquery="false" operator="NOT IN" or="false" value="self-service,Event"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>multipart/mixed</content_type>
+        <description/>
+        <event_name>orr.request.email.creation</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>true</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p><img id="pasted_img_47883d10478882004788c33047887530" src="sys_attachment.do?sys_id=8d471cdbdb2372c02ab570d9bf96194f" alt="" width="0" height="0" /><img id="pasted_img_42232a5042239f304223c7b04223f3f0" src="sys_attachment.do?sys_id=1147109bdb2372c02ab570d9bf96191a" alt="" width="0" height="0" /><img id="pasted_img_2a63eb902a6357e02a6306502a63a1c0" src="sys_attachment.do?sys_id=f247149bdb2372c02ab570d9bf961932" alt="" width="0" height="0" />Thank you for contacting the Oracle Finance Team. &nbsp;You can track and add further details to your request here: ${URI_REF}</p>
+<table style="height: 32px; border-color: #000000;" border="border-color: #000000;" width="588">
+<tbody>
+<tr>
+<td style="width: 140px;">&nbsp;Short Description</td>
+<td>&nbsp;${short_description}&nbsp;</td>
+</tr>
+<tr style="border-color: #000000;">
+<td style="width: 140px;">&nbsp;Detailed Description&nbsp;</td>
+<td>&nbsp;${description}&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><br />You will receive no further emails about this request unless we require more information from you or we believe this has been resolved.</p>
+<p><img id="pasted_img_1d0ec5e01d0e2e201d0e4d801d0e6310" src="sys_attachment.do?sys_id=3b8c1013db6372c02ab570d9bf961969" alt="" width="0" height="0" />If you believe this request should be resolved sooner or has not been fixed on time, then you can contact the Oracle Finance Team.</p>
+<p>&nbsp;</p>
+<p>Kind regards,</p>
+<p>Oracle Finance Team</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Oracle Requests Request - on your behalf</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>caller.email</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Oracle Finance Request ${number}  - ${short_description}</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 08:41:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>985ffe36db2732c02ab570d9bf96193f</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Oracle Requests Request - on your behalf</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sysevent_email_action_985ffe36db2732c02ab570d9bf96193f</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-29 10:57:42</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

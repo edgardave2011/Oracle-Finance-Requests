@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Oracle Finance Requests" max_length="40" name="x_spog_oracle_requests_request" sizeclass="25" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Application (hiden for non-admin)" max_length="40" name="x_spog_oracle_req_application" type="string">
+            <choice>
+                <element label="Hubble" sequence="0" value="Hubble"/>
+                <element label="ReconNET" sequence="1" value="ReconNET"/>
+                <element label="Oracle" sequence="2" value="Oracle"/>
+                <element label="Basware" sequence="3" value="Basware"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="x_spog_oracle_req_application" dependent_on_field="x_spog_oracle_req_application" label="Category" max_length="40" name="x_spog_oracle_req_category" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="ReconNET" label="Access" sequence="1" value="Access_ReconNET"/>
+                <element dependent_value="Oracle" label="Access" sequence="1" value="Access_Oracle"/>
+                <element dependent_value="Hubble" label="Access" sequence="1" value="Access_Hubble"/>
+                <element dependent_value="Basware" label="Access" sequence="1" value="Access_Basware"/>
+                <element dependent_value="Basware" label="Data" sequence="2" value="Data_Basware"/>
+                <element dependent_value="ReconNET" label="Reconcilliation" sequence="2" value="Reconcilliation_ReconNET"/>
+                <element dependent_value="Hubble" label="Report" sequence="2" value="Report_Hubble"/>
+                <element dependent_value="Oracle" label="Transactions" sequence="2" value="Transactions_Oracle"/>
+                <element dependent_value="Hubble" label="How to?" sequence="3" value="How_to_Hubble"/>
+                <element dependent_value="Basware" label="How to?" sequence="3" value="How_to_Basware"/>
+                <element dependent_value="ReconNET" label="How to?" sequence="3" value="How_to_ReconNET"/>
+                <element dependent_value="Oracle" label="How to?" sequence="3" value="How_to_Oracle"/>
+            </choice>
+        </element>
+        <element label="Pending Date" max_length="40" name="x_spog_oracle_req_pending_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="x_spog_oracle_req_category" dependent_on_field="x_spog_oracle_req_category" label="Sub Category" max_length="40" name="x_spog_oracle_req_sub_category" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Transactions_Oracle" label="Errors" value="Errors"/>
+                <element dependent_value="Access_Basware" label="First Time" value="First Time"/>
+                <element dependent_value="Access_Oracle" label="First Time" value="First Time"/>
+                <element dependent_value="Access_ReconNET" label="First Time" value="First Time"/>
+                <element dependent_value="Access_Hubble" label="First Time" value="First Time"/>
+                <element dependent_value="Transactions_Oracle" label="Intercompany Transactions Wrong" value="Intercompany Transactions Wrong"/>
+                <element dependent_value="Access_Oracle" label="It worked before" value="It worked before"/>
+                <element dependent_value="Access_Basware" label="It worked before" value="It worked before"/>
+                <element dependent_value="Access_Hubble" label="It worked before" value="It worked before"/>
+                <element dependent_value="Access_ReconNET" label="It worked before" value="It worked before"/>
+                <element dependent_value="Data_Basware" label="Maintenance" value="Maintenance"/>
+                <element dependent_value="Reconcilliation_ReconNET" label="Missing Data - BSUS" value="Missing Data - BSUS"/>
+                <element dependent_value="Reconcilliation_ReconNET" label="Missing Data - ReconNET" value="Missing Data - ReconNET"/>
+                <element dependent_value="Data_Basware" label="Missing in Basware" value="Missing in Basware"/>
+                <element dependent_value="Data_Basware" label="Missing in Oracle" value="Missing in Oracle"/>
+                <element dependent_value="Transactions_Oracle" label="Month End Issue" value="Month End Issue"/>
+                <element dependent_value="Report_Hubble" label="New report" value="New report"/>
+                <element dependent_value="Report_Hubble" label="No result or wrong result" value="no result"/>
+                <element dependent_value="Access_Hubble" label="Password reset" value="Password reset"/>
+                <element dependent_value="Access_Oracle" label="Password reset" value="Password reset"/>
+                <element dependent_value="Access_ReconNET" label="Password reset" value="Password reset"/>
+                <element dependent_value="Access_Basware" label="Password reset" value="Password reset"/>
+                <element dependent_value="Reconcilliation_ReconNET" label="Pension" value="Pension"/>
+                <element dependent_value="Access_Basware" label="Performance" value="Performance"/>
+                <element dependent_value="Access_Oracle" label="Performance" value="Performance"/>
+                <element dependent_value="Access_ReconNET" label="Performance" value="Performance"/>
+                <element dependent_value="Access_Hubble" label="Performance" value="Performance"/>
+                <element dependent_value="How_to_Basware" label="Question" value="Question"/>
+                <element dependent_value="How_to_ReconNET" label="Question" value="Question"/>
+                <element dependent_value="How_to_Hubble" label="Question" value="Question"/>
+                <element dependent_value="How_to_Oracle" label="Question" value="Question"/>
+                <element dependent_value="Transactions_Oracle" label="System Messages" value="System Messages"/>
+                <element dependent_value="Transactions_Oracle" label="Upload" value="Upload"/>
+                <element dependent_value="How_to_Hubble" label="Use it" value="Use it"/>
+                <element dependent_value="How_to_Oracle" label="Use it" value="Use it"/>
+                <element dependent_value="How_to_Oracle" label="Use it" value="Use it"/>
+                <element dependent_value="How_to_Basware" label="Use it" value="Use it"/>
+            </choice>
+        </element>
+        <element label="Application" max_length="32" name="x_spog_oracle_req_u_application" reference="cmdb_ci_appl" type="reference"/>
+        <element label="Application" max_length="32" name="x_spog_oracle_req_u_application_oracle" reference="cmdb_ci_appl" reference_qual="name=Oracle^ORname=Hubble^ORname=ReconNet^ORname=Basware^EQ" reference_qual_condition="name=Oracle^ORname=Hubble^ORname=ReconNet^ORname=Basware^EQ" type="reference"/>
+        <element label="Incident reference" max_length="32" name="x_spog_oracle_req_u_incident_ref" reference="incident" type="reference"/>
+    </element>
+</database>

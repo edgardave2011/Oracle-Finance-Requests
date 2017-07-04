@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bccf133edb6732c02ab570d9bf9619a9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_spog_oracle_requests_request_template">
+    <x_spog_oracle_requests_request_template action="INSERT_OR_UPDATE">
+        <acquisition_method/>
+        <asset_tracking_strategy>leave_to_category</asset_tracking_strategy>
+        <assignment_group/>
+        <availability>on_desktop</availability>
+        <barcode/>
+        <billable>false</billable>
+        <bundle>false</bundle>
+        <category/>
+        <certified>false</certified>
+        <checklist_template/>
+        <cmdb_ci_class/>
+        <cmdb_model_category>981f72f2db2732c02ab570d9bf9619d4</cmdb_model_category>
+        <comments/>
+        <cost>0</cost>
+        <depreciation/>
+        <description/>
+        <display_name>test</display_name>
+        <expenditure_type/>
+        <flow_rate/>
+        <full_name/>
+        <is_migrated>true</is_migrated>
+        <main_component/>
+        <manufacturer/>
+        <model_number/>
+        <name>test</name>
+        <order_description>test</order_description>
+        <order_skills/>
+        <owner/>
+        <picture/>
+        <power_consumption/>
+        <priority>4</priority>
+        <product_catalog_item display_value="test">30cf133edb6732c02ab570d9bf9619aa</product_catalog_item>
+        <qualification_group/>
+        <rack_units>1</rack_units>
+        <salvage_value>0</salvage_value>
+        <short_description>test</short_description>
+        <sla/>
+        <sound_power/>
+        <status>In Production</status>
+        <sys_class_name>x_spog_oracle_requests_request_template</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 11:03:23</sys_created_on>
+        <sys_id>bccf133edb6732c02ab570d9bf9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-28 11:03:23</sys_updated_on>
+        <type>Generic</type>
+        <weight/>
+        <workflow/>
+    </x_spog_oracle_requests_request_template>
+    <fx_price action="delete_multiple" query="id=bccf133edb6732c02ab570d9bf9619a9"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>cost</field>
+        <id>bccf133edb6732c02ab570d9bf9619a9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="GBP">GBP</reference_currency>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 11:03:23</sys_created_on>
+        <sys_id>c5cf133edb6732c02ab570d9bf9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-28 11:03:23</sys_updated_on>
+        <table>x_spog_oracle_requests_request_template</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_translated_text action="delete_multiple" query="documentkey=bccf133edb6732c02ab570d9bf9619a9"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 11:03:24</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>41cf133edb6732c02ab570d9bf9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sys_metadata_link_41cf133edb6732c02ab570d9bf9619af</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-28 11:03:24</sys_updated_on>
+        <tablename>x_spog_oracle_requests_request_template</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 12:46:00</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a56aceafdb6f72c02ab570d9bf961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_spog_oracle_requests_request.assigned_to.x_spog_oracle_req_agent</sys_name>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_security_acl display_value="x_spog_oracle_requests_request.assigned_to">a41f72f2db2732c02ab570d9bf9619e1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a56aceafdb6f72c02ab570d9bf961975</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 12:46:00</sys_updated_on>
+        <sys_user_role display_value="x_spog_oracle_req_agent" name="x_spog_oracle_req_agent">afbef232db2732c02ab570d9bf9619e0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

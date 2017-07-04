@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Oracle Request/Issue">4f142bfedb6732c02ab570d9bf96199e</cat_item>
+        <cat_variable>IO:57142bfedb6732c02ab570d9bf9619a7</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <messages/>
+        <name>Set Application</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+  if(newValue == '2be9cbfadb2732c02ab570d9bf961946') // Oracle
+  {
+  g_form.setValue('x_spog_oracle_req_application', 'Oracle');
+  } 
+	else if (newValue == '71e9833edb2732c02ab570d9bf9619e6') // Basware
+  {
+  g_form.setValue('x_spog_oracle_req_application', 'Basware');
+  } 
+	else if (newValue == 'acd9cbbadb2732c02ab570d9bf9619d9') // ReconNET
+  {
+  g_form.setValue('x_spog_oracle_req_application', 'ReconNET');
+  } 
+	else if (newValue == 'bb99873edb2732c02ab570d9bf96196f') // Hubble
+  {
+  g_form.setValue('x_spog_oracle_req_application', 'Hubble');
+  } 
+   
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 13:28:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5e700043dbe732c02ab570d9bf9619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>catalog_script_client_5e700043dbe732c02ab570d9bf9619b1</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-28 13:28:16</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

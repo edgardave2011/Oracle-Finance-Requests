@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_spog_oracle_req_sfuests_task">
+    <x_spog_oracle_req_sfuests_task action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script/>
+        <automatic_string>!current.template.nil() &amp;&amp; !current.parent.task_created</automatic_string>
+        <business_rule display_value="Ready for work">c2de3e72db2732c02ab570d9bf961968</business_rule>
+        <change_client_script/>
+        <client_script/>
+        <comment>Oracle Requests Request State flow</comment>
+        <derived_from display_value="Ready for work">61feb353df312100dca6a5f59bf263e4</derived_from>
+        <end_text>10</end_text>
+        <ending_state display_value="Pending Assignment">43bef232db2732c02ab570d9bf96192b</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script><![CDATA[if ((action.getGlideURI()+"").indexOf('_list.do?') < 0)
+	action.setRedirectURL(current);]]></manual_script>
+        <manual_string>(new global.SMTask()).showReadyForWork(current)</manual_string>
+        <name>Ready for work</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010018</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>1</start_text>
+        <starting_state display_value="New">8fbef232db2732c02ab570d9bf961929</starting_state>
+        <sys_class_name>x_spog_oracle_req_sfuests_task</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 08:39:33</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>82de3e72db2732c02ab570d9bf961968</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ready for work</sys_name>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>x_spog_oracle_req_sfuests_task_82de3e72db2732c02ab570d9bf961968</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:50:06</sys_updated_on>
+        <table>x_spog_oracle_requests_task</table>
+        <translated_ending_state>Pending Assignment</translated_ending_state>
+        <translated_starting_state>Draft</translated_starting_state>
+        <ui_action display_value="Ready for work">86de3e72db2732c02ab570d9bf961969</ui_action>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </x_spog_oracle_req_sfuests_task>
+</record_update>

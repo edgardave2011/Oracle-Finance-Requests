@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>Create Incident</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+    //Change the color of the 'Approve' button to green
+    transformButton('createinc', '#77FF77', 'black', 'icon-add');
+    //Change the color of the 'New' button to green
+//     transformButton('sysverb_new', '#77FF77', 'black', 'icon-add');
+}
+function transformButton(buttonID, buttonBackgroundColor, buttonTextColor, buttonIconName) {
+    try{
+        //Find the button(s) by ID and change the background color
+        $$('button[id=' + buttonID + ']').each(function(elmt) {
+            elmt.style.backgroundColor = buttonBackgroundColor;
+            if(buttonTextColor){
+                elmt.style.color = buttonTextColor;
+            }
+            if(buttonIconName){
+                elmt.addClassName(buttonIconName);
+                //Add some spacing between the icon and button label
+                elmt.innerHTML = ' ' + elmt.innerHTML;
+            }
+        });
+    }catch(e){}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 16:03:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>03342c0bdb2b32c02ab570d9bf961928</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create Incident</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sys_script_client_03342c0bdb2b32c02ab570d9bf961928</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-28 16:04:35</sys_updated_on>
+        <table>x_spog_oracle_requests_request</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

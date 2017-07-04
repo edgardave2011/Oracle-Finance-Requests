@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Oracle Requests Catalog">c02f3236db2732c02ab570d9bf9619bd</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 08:40:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>642f3236db2732c02ab570d9bf9619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Oracle Requests Catalog.catalog_oracle_requests_catalog</sys_name>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_oracle_requests_catalog">602f3236db2732c02ab570d9bf9619be</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_642f3236db2732c02ab570d9bf9619be</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-28 08:40:49</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

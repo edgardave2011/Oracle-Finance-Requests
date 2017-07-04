@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>createinc</action_name>
+        <active>true</active>
+        <client>false</client>
+        <comments/>
+        <condition>current.x_spog_oracle_req_u_incident_ref.nil() &amp;&amp; current.state!=10 </condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_context_menu>true</form_context_menu>
+        <form_link>false</form_link>
+        <hint/>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <name>Create Incident</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[(function createIncident() {
+
+	
+    var inci = new GlideRecord("incident"),
+        sysID,
+        mySysID;
+
+    inci.short_description = current.short_description;
+    inci.description = current.description;
+	inci.caller_id = current.caller;
+	inci.caller_id = current.caller;
+	inci.location = current.caller.location;
+	inci.u_business_area = 'Corporate';
+	inci.contact_type = current.contact_type;
+	inci.cmdb_ci = current.x_spog_oracle_req_u_application_oracle;
+	inci.u_business_service = current.x_spog_oracle_req_u_application_oracle.u_business_service;
+	inci.u_business_criticality = current.x_spog_oracle_req_u_application_oracle.u_business_criticality;
+	inci.work_notes = ("Created from Oracle Request " + current.number);
+					//   + "\n" + current.work_notes + "\n" + current.additonal_comments 
+	inci.assignment_group = '2e753dca37c74a00dd95db9643990e9e';
+	inci.u_oracle_finance_req = current.sys_id;
+    sysID = inci.insert();
+
+    current.x_spog_oracle_req_u_incident_ref = sysID;
+	current.work_notes = ("Incident " + inci.number + " created");
+	current.state = 7;
+    mySysID = current.update();
+
+    gs.addInfoMessage("Incident " + inci.number + " created");
+    action.setRedirectURL(current);
+    action.setReturnURL(current);
+	
+}());
+
+
+
+
+
+
+
+// (function execute() {
+	
+// 	var oracle = new GlideRecord("incident");
+// 	oracle.short_description = current.short_description;
+// 	oracle.description = current.description;
+// 	//oracle.change_origin = 'Incident';
+// 	//oracle.u_security_name = current.caller_id;
+// 	oracle.caller_id = current.caller;
+// 	oracle.location = current.caller.location;
+// 	oracle.u_business_area = 'Corporate';
+// 	oracle.contact_type = current.contact_type;
+// 	oracle.cmdb_ci = current.x_spog_oracle_req_u_application_oracle;
+// 	oracle.u_business_service = current.x_spog_oracle_req_u_application_oracle.u_business_service;
+// 	oracle.u_business_criticality = current.x_spog_oracle_req_u_application_oracle.u_business_criticality;
+// 	oracle.work_notes = ("Created from Oracle Request " + current.number + "\n" + current.work_notes + "\n" + current.additonal_comments );
+// 	oracle.assignment_group = '2e753dca37c74a00dd95db9643990e9e';
+// 	var sysID = oracle.insert();
+	
+// // 	current.u_oracle = sysID;
+// // 	var mySysID = current.update();
+// 	gs.addInfoMessage("Incident " + oracle.number + " created");
+// 	action.setRedirectURL(current);
+// 	action.setReturnURL(current);
+// 	current.work_notes = ("Incident " + oracle.number + " created");
+// }());]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 15:44:50</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41ae5883db2b32c02ab570d9bf96194a</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Create Incident</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sys_ui_action_41ae5883db2b32c02ab570d9bf96194a</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-29 08:48:12</sys_updated_on>
+        <table>x_spog_oracle_requests_request</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

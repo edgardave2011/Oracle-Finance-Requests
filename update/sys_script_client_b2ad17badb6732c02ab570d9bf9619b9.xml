@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>x_spog_oracle_req_u_application_oracle</field>
+        <global>true</global>
+        <messages/>
+        <name>Set Application</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+  if(newValue == '2be9cbfadb2732c02ab570d9bf961946') // Oracle
+  {
+  g_form.setValue('x_spog_oracle_req_application', 'Oracle');
+  } 
+	else if (newValue == '71e9833edb2732c02ab570d9bf9619e6') // Basware
+  {
+  g_form.setValue('x_spog_oracle_req_application', 'Basware');
+  } 
+	else if (newValue == 'acd9cbbadb2732c02ab570d9bf9619d9') // ReconNET
+  {
+  g_form.setValue('x_spog_oracle_req_application', 'ReconNET');
+  } 
+	else if (newValue == 'bb99873edb2732c02ab570d9bf96196f') // Hubble
+  {
+  g_form.setValue('x_spog_oracle_req_application', 'Hubble');
+  } 
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 10:58:04</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b2ad17badb6732c02ab570d9bf9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sys_script_client_b2ad17badb6732c02ab570d9bf9619b9</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-28 10:58:04</sys_updated_on>
+        <table>x_spog_oracle_requests_request</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

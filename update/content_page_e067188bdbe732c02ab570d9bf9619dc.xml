@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="content_page" unload_date="2017-07-04 11:42:16">
+    <sys_portal action="delete_multiple" query="page=e067188bdbe732c02ab570d9bf9619dc">
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="Oracle Issue/Reqeust">e067188bdbe732c02ab570d9bf9619dc</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                <sys_id>313cd443db2b32c02ab570d9bf96191d</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>353cd443db2b32c02ab570d9bf96191d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>713cd443db2b32c02ab570d9bf96191d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>991e8da3375602006c522b2943990e0a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>7d3cd443db2b32c02ab570d9bf96191d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>b1b0f428dbd3b2802ab570d9bf961962</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>b93cd443db2b32c02ab570d9bf96191d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Specsavers Menu Header</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>f53cd443db2b32c02ab570d9bf96191d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone100</dropzone>
+                <offset>0</offset>
+                <page display_value="Oracle Issue/Reqeust">e067188bdbe732c02ab570d9bf9619dc</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                <sys_id>313cd443db2b32c02ab570d9bf961924</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>353cd443db2b32c02ab570d9bf961924</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>713cd443db2b32c02ab570d9bf961924</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>2b688272375202006c522b2943990e74</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>7d3cd443db2b32c02ab570d9bf961924</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>e067188bdbe732c02ab570d9bf9619dc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>b93cd443db2b32c02ab570d9bf961924</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Specsavers - Footer</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>f53cd443db2b32c02ab570d9bf961924</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone10</dropzone>
+                <offset>0</offset>
+                <page display_value="Oracle Issue/Reqeust">e067188bdbe732c02ab570d9bf9619dc</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                <sys_id>353cd443db2b32c02ab570d9bf961922</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>393cd443db2b32c02ab570d9bf961922</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>713cd443db2b32c02ab570d9bf961923</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>e067188bdbe732c02ab570d9bf9619dc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>753cd443db2b32c02ab570d9bf961922</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>a39854cfdbe732c02ab570d9bf9619b0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>bd3cd443db2b32c02ab570d9bf961922</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Oracle Issue/Request</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>f93cd443db2b32c02ab570d9bf961922</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>content_block_iframe</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>2</offset>
+                <page display_value="Oracle Issue/Reqeust">e067188bdbe732c02ab570d9bf9619dc</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                <sys_id>393cd443db2b32c02ab570d9bf961920</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>3d3cd443db2b32c02ab570d9bf961920</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>753cd443db2b32c02ab570d9bf961921</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>e067188bdbe732c02ab570d9bf9619dc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>793cd443db2b32c02ab570d9bf961920</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>55dfcc363747c6006c522b2943990e4a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>b13cd443db2b32c02ab570d9bf961921</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Specsavers - Header padding</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>fd3cd443db2b32c02ab570d9bf961920</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>1</offset>
+                <page display_value="Oracle Issue/Reqeust">e067188bdbe732c02ab570d9bf9619dc</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                <sys_id>3d3cd443db2b32c02ab570d9bf96191e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>313cd443db2b32c02ab570d9bf96191f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>793cd443db2b32c02ab570d9bf96191f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>e067188bdbe732c02ab570d9bf9619dc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>7d3cd443db2b32c02ab570d9bf96191e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>9e465a6e379602006c522b2943990ea0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>b53cd443db2b32c02ab570d9bf96191f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Specsaver - Marquee v2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>f13cd443db2b32c02ab570d9bf96191f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>content_block_programmatic</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone100</dropzone>
+                <offset>1</offset>
+                <page display_value="Oracle Issue/Reqeust">e067188bdbe732c02ab570d9bf9619dc</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                <sys_id>3d3cd443db2b32c02ab570d9bf961925</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>023cd443db2b32c02ab570d9bf961926</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>4a3cd443db2b32c02ab570d9bf961926</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>e067188bdbe732c02ab570d9bf9619dc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>7d3cd443db2b32c02ab570d9bf961925</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>666e08363747c6006c522b2943990ef8</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>863cd443db2b32c02ab570d9bf961926</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Specsavers - Footer padding</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-06-28 15:27:30</sys_created_on>
+                        <sys_id>c23cd443db2b32c02ab570d9bf961926</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-06-28 15:27:30</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal>
+    <content_page action="INSERT_OR_UPDATE">
+        <content_site display_value="specsavers">233c2c9d371202004ed29c9953990e73</content_site>
+        <content_theme/>
+        <description/>
+        <frame_buster>true</frame_buster>
+        <layout display_value="Specsavers Layout - Classic">c0d8ab654f7006005d54e9628110c72a</layout>
+        <model_id/>
+        <model_table/>
+        <name>Oracle Issue/Request</name>
+        <order/>
+        <parent_page display_value="Specsavers - Portal">fa5cac9d371202004ed29c9953990eb3</parent_page>
+        <read_roles/>
+        <roles>report_admin</roles>
+        <selectable>true</selectable>
+        <sys_class_name>content_page</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 15:07:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e067188bdbe732c02ab570d9bf9619dc</sys_id>
+        <sys_mod_count>139</sys_mod_count>
+        <sys_name>Oracle Issue/Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>content_page_e067188bdbe732c02ab570d9bf9619dc</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-07-04 06:54:40</sys_updated_on>
+        <title>Oracle Issue/Reqeust</title>
+        <url_suffix>oracle_finance</url_suffix>
+        <user/>
+        <view/>
+        <workflow_state>published</workflow_state>
+    </content_page>
+</record_update>

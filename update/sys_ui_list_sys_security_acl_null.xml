@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_security_acl" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>6bd3c15a4fecaa0419baf9b7c210c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>abd3c15a4fecaa0419baf9b7c210c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>admin_overrides</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>ebd3c15a4fecaa0419baf9b7c210c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>advanced</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>2fd3c15a4fecaa0419baf9b7c210c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>condition</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>6fd3c15a4fecaa0419baf9b7c210c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>afd3c15a4fecaa0419baf9b7c210c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>operation</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>efd3c15a4fecaa0419baf9b7c210c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>script</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>23d3c15a4fecaa0419baf9b7c210c7d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="sys_security_acl" element="NULL" name="sys_security_acl" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a7d3c15a4fecaa0419baf9b7c210c7d3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2016-07-13 11:05:46</sys_created_on>
+            <sys_id>63d3c15a4fecaa0419baf9b7c210c7d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2016-07-13 11:05:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_security_acl</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>huey.kam@snc</sys_created_by>
+            <sys_created_on>2017-07-02 07:11:35</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>501157484ffb3a8021a168d18110c727</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_security_acl</sys_name>
+            <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+            <sys_update_name>sys_ui_list_sys_security_acl_null</sys_update_name>
+            <sys_updated_by>huey.kam@snc</sys_updated_by>
+            <sys_updated_on>2017-07-02 07:11:35</sys_updated_on>
+            <sys_user display_value="">huey.kam@snc</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

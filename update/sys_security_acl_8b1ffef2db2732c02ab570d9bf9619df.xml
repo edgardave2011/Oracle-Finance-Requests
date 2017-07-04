@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition table="x_spog_oracle_requests_request.work_notes">state!=10^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>All Oracle Requests basic users can edit work notes, in any phase of the service management lifecycle, including after the Oracle Requests Request is closed</description>
+        <name>x_spog_oracle_requests_request.work_notes</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 08:40:43</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8b1ffef2db2732c02ab570d9bf9619df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_spog_oracle_requests_request.work_notes</sys_name>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sys_security_acl_8b1ffef2db2732c02ab570d9bf9619df</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 13:03:51</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

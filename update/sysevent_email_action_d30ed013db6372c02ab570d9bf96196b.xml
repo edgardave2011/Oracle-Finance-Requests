@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <collection>x_spog_oracle_requests_request</collection>
+        <condition table="x_spog_oracle_requests_request">stateCHANGESTO9^contact_type!=Event^x_spog_oracle_req_u_incident_refISEMPTY^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="9"/>
+            <item endquery="false" field="contact_type" goto="false" newquery="false" operator="!=" or="false" value="Event"/>
+            <item endquery="false" field="x_spog_oracle_req_u_incident_ref" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>multipart/mixed</content_type>
+        <description/>
+        <event_name>orr.request.email.creation</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>true</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p><span style="color: rgba(0, 0, 0, 0.87);">Dear ${caller.name},</span></p>
+<p><span style="color: rgba(0, 0, 0, 0.87);">Your Oracle Finance Request ${number} has been resolved and will automatically close in 5 days.</span></p>
+<p>If you feel that the issue has:</p>
+<ul>
+<ul>
+<li><a href="mailto:specsaversdev@service-now.com?subject=Re: Oracle Finance Ticket is NOT resolved ${number}&amp;body=${watermark}">NOT been resolved - Click here and send email</a></li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li><a href="mailto:specsaversdev@service-now.com?subject=Re: Oracle Finance Ticket is resolved ${number}&amp;body=${watermark}">IS resolved - Click here and send email</a></li>
+</ul>
+</ul>
+<p>A brief reminder of what your incident was about:</p>
+<!-- This is a the standard table with 4 rows. Delete rows as applicable and substitute the values as required -->
+<table style="height: 59px;" border="border-color: #000000;" width="592">
+<tbody>
+<tr>
+<td style="border-color: #000000; width: 140px;">&nbsp;Short Description</td>
+<td style="border-color: #000000;">&nbsp;${short_description}&nbsp;</td>
+</tr>
+<tr>
+<td style="border-color: #000000; width: 140px;">&nbsp;Detailed Description&nbsp;</td>
+<td style="border-color: #000000;">&nbsp;${description}&nbsp;</td>
+</tr>
+<tr>
+<td style="border-color: #000000; width: 140px;">&nbsp;Resolution notes&nbsp;</td>
+<td style="border-color: #000000;">&nbsp;${mail_script:lastcomment}</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;${mail_script:lastcomment}</p>
+<p>Regards</p>
+<p>Oracle Finance Team</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Oracle Requests Request - resolved</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>caller.email</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Oracle Finance Request ${number} has been resolved - ${short_description}</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-29 10:14:00</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d30ed013db6372c02ab570d9bf96196b</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Oracle Requests Request - resolved</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sysevent_email_action_d30ed013db6372c02ab570d9bf96196b</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-29 14:39:17</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

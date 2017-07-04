@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-07-04 11:42:08">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order>850</order>
+        <read_roles>x_spog_oracle_req_read,x_spog_oracle_req_agent</read_roles>
+        <roles>report_admin</roles>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-28 08:41:36</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>045ffe36db2732c02ab570d9bf961932</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Oracle Requests Overview</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_update_name>sys_portal_page_045ffe36db2732c02ab570d9bf961932</sys_update_name>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-07-04 09:55:06</sys_updated_on>
+        <title>Oracle Requests Overview</title>
+        <user/>
+        <view>oracle_requests_overview</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="Oracle Requests Overview">045ffe36db2732c02ab570d9bf961932</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                <sys_id>32659eb0dbfb36c02ab570d9bf961997</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">32659eb0dbfb36c02ab570d9bf961997</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>32659eb0dbfb36c02ab570d9bf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Month to date by Application and Sub Category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">32659eb0dbfb36c02ab570d9bf961997</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>36659eb0dbfb36c02ab570d9bf961997</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">32659eb0dbfb36c02ab570d9bf961997</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>72659eb0dbfb36c02ab570d9bf961997</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>91b35670dbfb36c02ab570d9bf9619e7</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">32659eb0dbfb36c02ab570d9bf961997</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>7e659eb0dbfb36c02ab570d9bf961997</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>pivot</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">32659eb0dbfb36c02ab570d9bf961997</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>ba659eb0dbfb36c02ab570d9bf961997</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">32659eb0dbfb36c02ab570d9bf961997</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>f2659eb0dbfb36c02ab570d9bf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>045ffe36db2732c02ab570d9bf961932</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">32659eb0dbfb36c02ab570d9bf961997</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>f6659eb0dbfb36c02ab570d9bf961997</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="Oracle Requests Overview">045ffe36db2732c02ab570d9bf961932</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                <sys_id>3a659eb0dbfb36c02ab570d9bf961998</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">3a659eb0dbfb36c02ab570d9bf961998</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>3e659eb0dbfb36c02ab570d9bf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">3a659eb0dbfb36c02ab570d9bf961998</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>7a659eb0dbfb36c02ab570d9bf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>374ffe36db2732c02ab570d9bf96192c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">3a659eb0dbfb36c02ab570d9bf961998</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>b2659eb0dbfb36c02ab570d9bf961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Closed by Month Trend</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">3a659eb0dbfb36c02ab570d9bf961998</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>fe659eb0dbfb36c02ab570d9bf961998</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="Oracle Requests Overview">045ffe36db2732c02ab570d9bf961932</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                <sys_id>72659eb0dbfb36c02ab570d9bf961996</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">72659eb0dbfb36c02ab570d9bf961996</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>3a659eb0dbfb36c02ab570d9bf961996</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">72659eb0dbfb36c02ab570d9bf961996</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>76659eb0dbfb36c02ab570d9bf961996</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">72659eb0dbfb36c02ab570d9bf961996</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>b2659eb0dbfb36c02ab570d9bf961996</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>b74fbe36db2732c02ab570d9bf9619d2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">72659eb0dbfb36c02ab570d9bf961996</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>fa659eb0dbfb36c02ab570d9bf961996</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Requests by State</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="Oracle Requests Overview">045ffe36db2732c02ab570d9bf961932</page>
+                <summary/>
+                <sys_created_by>david.edgar</sys_created_by>
+                <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                <sys_id>f6659eb0dbfb36c02ab570d9bf961999</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>david.edgar</sys_updated_by>
+                <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                <u_fge>false</u_fge>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">f6659eb0dbfb36c02ab570d9bf961999</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>36659eb0dbfb36c02ab570d9bf96199a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>pivot</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">f6659eb0dbfb36c02ab570d9bf961999</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>3a659eb0dbfb36c02ab570d9bf961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>95555ab0dbfb36c02ab570d9bf961994</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">f6659eb0dbfb36c02ab570d9bf961999</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>72659eb0dbfb36c02ab570d9bf96199a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">f6659eb0dbfb36c02ab570d9bf961999</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>ba659eb0dbfb36c02ab570d9bf96199a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>045ffe36db2732c02ab570d9bf961932</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">f6659eb0dbfb36c02ab570d9bf961999</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>be659eb0dbfb36c02ab570d9bf961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">f6659eb0dbfb36c02ab570d9bf961999</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>f6659eb0dbfb36c02ab570d9bf96199a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>Last 90 day by Application and Sub Category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 04/07/2017 11:46:24">f6659eb0dbfb36c02ab570d9bf961999</portal_section>
+                        <sys_created_by>david.edgar</sys_created_by>
+                        <sys_created_on>2017-07-04 10:46:24</sys_created_on>
+                        <sys_id>fa659eb0dbfb36c02ab570d9bf961999</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.edgar</sys_updated_by>
+                        <sys_updated_on>2017-07-04 10:46:24</sys_updated_on>
+                        <u_fge>false</u_fge>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
