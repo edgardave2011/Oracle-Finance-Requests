@@ -11,10 +11,10 @@
         <sys_id>d81f72f2db2732c02ab570d9bf9619d3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_spog_oracle_req.allow.toll.roads.Oracle Requests Geolocation</sys_name>
-        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_package display_value="Oracle Finance Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_scope display_value="Oracle Finance Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
         <sys_update_name>sys_properties_category_m2m_d81f72f2db2732c02ab570d9bf9619d3</sys_update_name>
         <sys_updated_by>david.edgar</sys_updated_by>
         <sys_updated_on>2017-06-28 08:40:31</sys_updated_on>

@@ -155,10 +155,10 @@
             <sys_id>501157484ffb3a8021a168d18110c727</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_security_acl</sys_name>
-            <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+            <sys_package display_value="Oracle Finance Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-            <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+            <sys_scope display_value="Oracle Finance Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
             <sys_update_name>sys_ui_list_sys_security_acl_null</sys_update_name>
             <sys_updated_by>huey.kam@snc</sys_updated_by>
             <sys_updated_on>2017-07-02 07:11:35</sys_updated_on>

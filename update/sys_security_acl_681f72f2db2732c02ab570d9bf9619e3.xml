@@ -21,10 +21,10 @@ answer = stateFlowsOff || requestInDraft;]]></script>
         <sys_id>681f72f2db2732c02ab570d9bf9619e3</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>x_spog_oracle_requests_request.caller</sys_name>
-        <sys_package display_value="Oracle Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
+        <sys_package display_value="Oracle Finance Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Oracle Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
+        <sys_scope display_value="Oracle Finance Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
         <sys_update_name>sys_security_acl_681f72f2db2732c02ab570d9bf9619e3</sys_update_name>
         <sys_updated_by>david.edgar</sys_updated_by>
         <sys_updated_on>2017-06-30 14:05:42</sys_updated_on>
