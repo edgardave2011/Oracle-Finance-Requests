@@ -5,7 +5,7 @@
         <active>true</active>
         <client>false</client>
         <comments/>
-        <condition>current.x_spog_oracle_req_u_incident_ref.nil() &amp;&amp; current.state!=10 </condition>
+        <condition>current.x_spog_oracle_req_u_incident_ref.nil() &amp;&amp; current.state!=10 &amp;&amp; (gs.hasRole("itil" ) || gs.hasRole("admin") || gs.hasRole("x_spog_oracle_req_agent") ||  gs.hasRole("x_spog_oracle_req_read"))</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_context_menu>true</form_context_menu>
@@ -46,7 +46,7 @@
 
     current.x_spog_oracle_req_u_incident_ref = sysID;
 	current.work_notes = ("Incident " + inci.number + " created");
-	current.state = 7;
+	current.state = 77;
     mySysID = current.update();
 
     gs.addInfoMessage("Incident " + inci.number + " created");
@@ -97,7 +97,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>41ae5883db2b32c02ab570d9bf96194a</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Create Incident</sys_name>
         <sys_overrides/>
         <sys_package display_value="Oracle Finance Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
@@ -106,7 +106,7 @@
         <sys_scope display_value="Oracle Finance Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
         <sys_update_name>sys_ui_action_41ae5883db2b32c02ab570d9bf96194a</sys_update_name>
         <sys_updated_by>david.edgar</sys_updated_by>
-        <sys_updated_on>2017-06-29 08:48:12</sys_updated_on>
+        <sys_updated_on>2017-08-14 10:53:04</sys_updated_on>
         <table>x_spog_oracle_requests_request</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

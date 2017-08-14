@@ -50,6 +50,7 @@ current.state = '1';
 producer.redirect = 'ticket_redirect.do?sysparm_number=' + current.number;
 ]]></script>
         <short_description>Oracle Request/Issue</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>

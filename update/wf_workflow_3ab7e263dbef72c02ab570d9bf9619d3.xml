@@ -96,6 +96,218 @@
         <x>173</x>
         <y>103</y>
     </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=18e7ea27dbef72c02ab570d9bf9619b9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>32e76267dbef72c02ab570d9bf9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">220dc5a40a0a0b2109fbd28b8c4b6213</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>310</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>36e76267dbef72c02ab570d9bf9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">21f80cd00a0a0b2101fcd5b5defc0810</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1360</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>3ae76267dbef72c02ab570d9bf9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">292b2f0e0a0a0b215aa2dd2cbc578dc5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1310</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>3ee76267dbef72c02ab570d9bf9619b6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 15:07:24</sys_updated_on>
+        <value>1970-01-01 00:01:00</value>
+        <variable display_value="">c35dc0df0a0a0ba96248a7098d737925</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1360</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>72e76267dbef72c02ab570d9bf9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">292c91070a0a0b212543d91ffde5014c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1360</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>76e76267dbef72c02ab570d9bf9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">292bd15e0a0a0b215a040c701033e3c5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>3000</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>7ae76267dbef72c02ab570d9bf9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value>// Set 'answer' to the number of seconds this timer should wait&#13;
+answer = 0;</value>
+        <variable display_value="">293493710a0a0b2115e3e5b4fce1d12a</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>320</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>7ee76267dbef72c02ab570d9bf9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">4cba34da0a0a0b5200798c86eafe1203</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1310</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>b2e76267dbef72c02ab570d9bf9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">21fd462c0a0a0b211c997276d7806c03</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>350</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>b6e76267dbef72c02ab570d9bf9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">4cbfe48a0a0a0b5200cf8b82cc6685f1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1320</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>bee76267dbef72c02ab570d9bf9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">4cc6788c0a0a0b5200e6743c94001b16</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1350</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>f2e76267dbef72c02ab570d9bf9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">4cc836da0a0a0b520083ebc07da2f47c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1350</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>f6e76267dbef72c02ab570d9bf9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">4cc740fe0a0a0b520025dcf8e2ff78e7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1320</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>fae76267dbef72c02ab570d9bf9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value/>
+        <variable display_value="">4cc4a4030a0a0b52007334f001376dc5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
+        <order>1310</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 14:54:50</sys_created_on>
+        <sys_id>fee76267dbef72c02ab570d9bf9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 14:54:50</sys_updated_on>
+        <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
+        <variable display_value="">220cd53d0a0a0b214103bdc2ec5c7ab4</variable>
+    </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
         <document_key>18e7ea27dbef72c02ab570d9bf9619b9</document_key>
@@ -356,6 +568,7 @@ answer = 0;</value>
         <x>34</x>
         <y>165</y>
     </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=3eb7e263dbef72c02ab570d9bf9619d3"/>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Begin">3eb7e263dbef72c02ab570d9bf9619d3</activity>
         <condition>true</condition>
@@ -405,6 +618,7 @@ answer = 0;</value>
         <x>517</x>
         <y>311</y>
     </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=32b7e263dbef72c02ab570d9bf9619d4"/>
     <wf_activity action="INSERT_OR_UPDATE">
         <activity_definition display_value="Run Script">db8c65aec0a8016501d00259bc7203a4</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
@@ -433,6 +647,22 @@ answer = 0;</value>
         <x>383</x>
         <y>106</y>
     </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=c830f6abdbef72c02ab570d9bf96198c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>c830f6abdbef72c02ab570d9bf96198c</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 15:31:37</sys_created_on>
+        <sys_id>3d50faabdbef72c02ab570d9bf9619d8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 16:02:32</sys_updated_on>
+        <value>current.state=-20;&#13;
+current.active = false;</value>
+        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+    </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
         <document_key>c830f6abdbef72c02ab570d9bf96198c</document_key>
@@ -497,6 +727,37 @@ current.active = false;</value>
         <x>173</x>
         <y>263</y>
     </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=36e9aaa7dbef72c02ab570d9bf961980"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>36e9aaa7dbef72c02ab570d9bf961980</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 15:04:01</sys_created_on>
+        <sys_id>650a6aa7dbef72c02ab570d9bf961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 15:04:01</sys_updated_on>
+        <value>state!=99^EQ</value>
+        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>36e9aaa7dbef72c02ab570d9bf961980</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>david.edgar</sys_created_by>
+        <sys_created_on>2017-06-30 15:04:01</sys_created_on>
+        <sys_id>a10a6aa7dbef72c02ab570d9bf961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.edgar</sys_updated_by>
+        <sys_updated_on>2017-06-30 15:04:01</sys_updated_on>
+        <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
+answer = true;&#13;
+</value>
+        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+    </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
         <document_key>36e9aaa7dbef72c02ab570d9bf961980</document_key>

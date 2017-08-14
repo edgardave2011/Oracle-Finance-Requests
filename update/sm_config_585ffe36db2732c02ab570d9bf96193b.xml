@@ -34,6 +34,7 @@
         <mandatory_work_notes>false</mandatory_work_notes>
         <name>Oracle Requests</name>
         <part_requirement>false</part_requirement>
+        <pdf_order_summary>false</pdf_order_summary>
         <property_prefix>x_spog_oracle_req</property_prefix>
         <qualification>false</qualification>
         <qualification_group_type/>
@@ -44,6 +45,7 @@
         <request_driven>false</request_driven>
         <rollup_work_notes>false</rollup_work_notes>
         <service_catalog>true</service_catalog>
+        <signature_capture>false</signature_capture>
         <surveys/>
         <sys_class_name>sm_config</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
