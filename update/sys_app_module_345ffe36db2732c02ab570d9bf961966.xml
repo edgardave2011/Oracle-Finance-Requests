@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <application display_value="Self-Service">08771d0cc0a8016401f604303b94b999</application>
         <assessment/>
         <content_page/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>345ffe36db2732c02ab570d9bf961966</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Oracle Requests Catalog</sys_name>
         <sys_overrides/>
         <sys_package display_value="Oracle Finance Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Oracle Finance Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
         <sys_update_name>sys_app_module_345ffe36db2732c02ab570d9bf961966</sys_update_name>
         <sys_updated_by>david.edgar</sys_updated_by>
-        <sys_updated_on>2017-06-28 08:41:39</sys_updated_on>
+        <sys_updated_on>2017-08-15 11:06:47</sys_updated_on>
         <timeline_page/>
         <title>Oracle Requests Catalog</title>
         <uncancelable>false</uncancelable>
