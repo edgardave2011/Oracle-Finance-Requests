@@ -3,59 +3,45 @@
     <sys_ui_related sys_domain="global" table="x_spog_oracle_requests_request" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Oracle Finance Requests - Default view" name="x_spog_oracle_requests_request" related_list="NULL" sys_domain="global" view="Default view">feb7ffcfdbaf32c02ab570d9bf9619b1</list_id>
+            <list_id display_value="Oracle Finance Requests - Default view" name="x_spog_oracle_requests_request" related_list="NULL" sys_domain="global" view="Default view">467cdb1a4f240f0021a168d18110c795</list_id>
             <order_by/>
             <position>0</position>
-            <related_list>x_spog_oracle_requests_task.parent</related_list>
-            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-29 07:26:34</sys_created_on>
-            <sys_id>36b7ffcfdbaf32c02ab570d9bf9619b2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-29 07:26:34</sys_updated_on>
-        </sys_ui_related_list_entry>
-        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
-            <filter/>
-            <list_id display_value="Oracle Finance Requests - Default view" name="x_spog_oracle_requests_request" related_list="NULL" sys_domain="global" view="Default view">feb7ffcfdbaf32c02ab570d9bf9619b1</list_id>
-            <order_by/>
-            <position>1</position>
             <related_list>task_sla.task</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-29 07:26:34</sys_created_on>
-            <sys_id>f6b7ffcfdbaf32c02ab570d9bf9619b2</sys_id>
+            <sys_created_on>2017-08-15 14:34:49</sys_created_on>
+            <sys_id>c27cdb1a4f240f0021a168d18110c796</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-29 07:26:34</sys_updated_on>
+            <sys_updated_on>2017-08-15 14:34:49</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Oracle Finance Requests - Default view" name="x_spog_oracle_requests_request" related_list="NULL" sys_domain="global" view="Default view">feb7ffcfdbaf32c02ab570d9bf9619b1</list_id>
+            <list_id display_value="Oracle Finance Requests - Default view" name="x_spog_oracle_requests_request" related_list="NULL" sys_domain="global" view="Default view">467cdb1a4f240f0021a168d18110c795</list_id>
             <order_by/>
-            <position>2</position>
+            <position>1</position>
             <related_list>task_activity.task</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-29 07:26:34</sys_created_on>
-            <sys_id>bab7ffcfdbaf32c02ab570d9bf9619b2</sys_id>
+            <sys_created_on>2017-08-15 14:34:49</sys_created_on>
+            <sys_id>0e7cdb1a4f240f0021a168d18110c796</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-29 07:26:34</sys_updated_on>
+            <sys_updated_on>2017-08-15 14:34:49</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Oracle Finance Requests - Default view" name="x_spog_oracle_requests_request" related_list="NULL" sys_domain="global" view="Default view">feb7ffcfdbaf32c02ab570d9bf9619b1</list_id>
+            <list_id display_value="Oracle Finance Requests - Default view" name="x_spog_oracle_requests_request" related_list="NULL" sys_domain="global" view="Default view">467cdb1a4f240f0021a168d18110c795</list_id>
             <order_by/>
-            <position>3</position>
+            <position>2</position>
             <related_list>incident.parent</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-29 07:26:34</sys_created_on>
-            <sys_id>7eb7ffcfdbaf32c02ab570d9bf9619b2</sys_id>
+            <sys_created_on>2017-08-15 14:34:49</sys_created_on>
+            <sys_id>027cdb1a4f240f0021a168d18110c797</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-29 07:26:34</sys_updated_on>
+            <sys_updated_on>2017-08-15 14:34:49</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>Oracle Finance Requests - Default view</calculated_name>
@@ -66,11 +52,11 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-29 07:26:34</sys_created_on>
+            <sys_created_on>2017-08-15 14:34:49</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>feb7ffcfdbaf32c02ab570d9bf9619b1</sys_id>
+            <sys_id>467cdb1a4f240f0021a168d18110c795</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Oracle Finance Requests - Default view</sys_name>
             <sys_package display_value="Oracle Finance Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
@@ -79,7 +65,7 @@
             <sys_scope display_value="Oracle Finance Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
             <sys_update_name>sys_ui_related_x_spog_oracle_requests_request_null</sys_update_name>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-29 07:26:34</sys_updated_on>
+            <sys_updated_on>2017-08-15 14:34:49</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
