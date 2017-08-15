@@ -14,7 +14,7 @@
         <label>Oracle Finance Requests</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_spog_oracle_requests_request</name>
-        <number_ref display_value="OFR">852f3a36db2732c02ab570d9bf96195d</number_ref>
+        <number_ref display_value="OFT">852f3a36db2732c02ab570d9bf96195d</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class display_value="Service Order" name="sm_order">e067c0dedbd532006d11f1eabf9619d1</super_class>
