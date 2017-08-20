@@ -58,7 +58,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 11:22:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5f142bfedb6732c02ab570d9bf9619a2</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>Application</sys_name>

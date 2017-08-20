@@ -86,7 +86,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-07-04 10:38:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>91b35670dbfb36c02ab570d9bf9619e7</sys_id>
         <sys_mod_count>9</sys_mod_count>
         <sys_name>Month to date by Application and Sub Category</sys_name>

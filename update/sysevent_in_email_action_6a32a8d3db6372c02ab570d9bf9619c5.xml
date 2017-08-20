@@ -22,7 +22,7 @@ current.state = 22;
         <sys_class_name>sysevent_in_email_action</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-29 10:35:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6a32a8d3db6372c02ab570d9bf9619c5</sys_id>

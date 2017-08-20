@@ -86,7 +86,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-07-04 10:46:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>95555ab0dbfb36c02ab570d9bf961994</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Last 90 day by Application and Sub Category</sys_name>

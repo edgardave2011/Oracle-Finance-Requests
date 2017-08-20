@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 11:10:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8c812f7edb6732c02ab570d9bf96198a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Oracle Requests Catalog.Oracle Finance Request/Issue</sys_name>

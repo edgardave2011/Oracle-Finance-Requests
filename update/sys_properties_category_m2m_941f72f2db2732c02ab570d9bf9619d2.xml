@@ -7,7 +7,7 @@
         <sys_class_name>sys_properties_category_m2m</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:40:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>941f72f2db2732c02ab570d9bf9619d2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_spog_oracle_req.morning.rush.hours.Oracle Requests Geolocation</sys_name>

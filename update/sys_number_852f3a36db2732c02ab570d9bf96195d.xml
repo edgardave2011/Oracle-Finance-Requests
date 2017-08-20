@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:40:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>852f3a36db2732c02ab570d9bf96195d</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>OFT</sys_name>

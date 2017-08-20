@@ -220,7 +220,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:41:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b55ffe36db2732c02ab570d9bf96197b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Work In Progress</sys_name>

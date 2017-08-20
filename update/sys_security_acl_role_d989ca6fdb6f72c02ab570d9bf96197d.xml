@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-30 12:42:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d989ca6fdb6f72c02ab570d9bf96197d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_spog_oracle_requests_request.*.x_spog_oracle_req_agent</sys_name>

@@ -17,11 +17,11 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Service Order Model" name="cmdb_serviceorder_product_model">a757c0dedbd532006d11f1eabf961953</super_class>
+        <super_class display_value="Service Order Model" name="cmdb_serviceorder_product_model">66a463fadb9976c0f2fd7b9dae9619ad</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:39:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c6befefedbe332c02ab570d9bf96193e</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Oracle Finance Request Templates</sys_name>

@@ -9,7 +9,7 @@
         <sys_class_name>sysevent_register</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-07-04 07:42:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5b2b69304f3f7a8021a168d18110c7d1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_spog_oracle_req.incident_created</sys_name>

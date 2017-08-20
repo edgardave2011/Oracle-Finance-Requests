@@ -5,7 +5,7 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
-        <license_model>none</license_model>
+        <license_model>fulfiller</license_model>
         <logo/>
         <menu/>
         <name>Oracle Finance Requests</name>
@@ -23,14 +23,14 @@
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:38:55</sys_created_on>
         <sys_id>24bebebadbe332c02ab570d9bf9619b8</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_updated_by>david.edgar</sys_updated_by>
-        <sys_updated_on>2017-08-17 13:28:33</sys_updated_on>
+        <sys_updated_on>2017-08-20 20:10:24</sys_updated_on>
         <template>esa</template>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.9</version>
+        <version>1.0.10</version>
     </sys_app>
 </record_update>

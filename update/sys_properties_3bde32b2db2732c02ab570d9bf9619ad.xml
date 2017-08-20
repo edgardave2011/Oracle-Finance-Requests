@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:39:41</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3bde32b2db2732c02ab570d9bf9619ad</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_spog_oracle_req.autodispatch.geolocation</sys_name>

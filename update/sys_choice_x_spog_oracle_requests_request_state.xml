@@ -4,9 +4,9 @@
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
-            <hint>Oracle Requests Request has been described by initiator and can be processed by approver</hint>
-            <inactive>true</inactive>
-            <label>Awaiting Approval</label>
+            <hint>Oracle Requests Request initiator is not done describing the work</hint>
+            <inactive>false</inactive>
+            <label>Draft</label>
             <language>en</language>
             <name>x_spog_oracle_requests_request</name>
             <sequence>0</sequence>
@@ -14,334 +14,125 @@
             <sys_created_on>2017-06-28 08:39:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c7bef232db2732c02ab570d9bf961921</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_id>fabefefedbe332c02ab570d9bf961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-28 10:37:09</sys_updated_on>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Oracle Requests Request has been described by initiator and can be processed by approver</hint>
+            <inactive>false</inactive>
+            <label>Awaiting Approval</label>
+            <language>en</language>
+            <name>x_spog_oracle_requests_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7bef232db2732c02ab570d9bf961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
             <value>11</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
             <hint>Oracle Requests Request has been approved</hint>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Approved</label>
             <language>en</language>
             <name>x_spog_oracle_requests_request</name>
-            <sequence>1</sequence>
+            <sequence>2</sequence>
             <sys_created_by>david.edgar</sys_created_by>
             <sys_created_on>2017-06-28 08:39:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>87bef232db2732c02ab570d9bf961922</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-28 10:37:09</sys_updated_on>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
             <value>13</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
-            <hint>Oracle Requests Request initiator is not done describing the work</hint>
-            <inactive>false</inactive>
-            <label>New</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>1</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>fabefefedbe332c02ab570d9bf961949</sys_id>
-            <sys_mod_count>7</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:17</sys_updated_on>
-            <value>20</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
             <hint>Oracle Requests Request has been fully described by initiator and can be processed by qualifier</hint>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Awaiting Qualification</label>
             <language>en</language>
             <name>x_spog_oracle_requests_request</name>
-            <sequence>2</sequence>
+            <sequence>3</sequence>
             <sys_created_by>david.edgar</sys_created_by>
             <sys_created_on>2017-06-28 08:39:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>47bef232db2732c02ab570d9bf961923</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-28 10:37:09</sys_updated_on>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
             <value>15</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Active</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>2</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:54:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>c6c10b76db2732c02ab570d9bf96196c</sys_id>
-            <sys_mod_count>7</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:32</sys_updated_on>
-            <value>22</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint>Task is assigned, pending staff acceptance</hint>
-            <inactive>true</inactive>
-            <label>Assigned</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>3</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>c3bef232db2732c02ab570d9bf961925</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-28 10:37:09</sys_updated_on>
-            <value>16</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Pending</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>3</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 10:40:12</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>197a1b3adb6732c02ab570d9bf96197b</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:35</sys_updated_on>
-            <value>33</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint>Work has started</hint>
-            <inactive>true</inactive>
-            <label>Work In Progress</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>4</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>83bef232db2732c02ab570d9bf961926</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-28 10:37:09</sys_updated_on>
-            <value>18</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>IT Passed back</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>4</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:54:25</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>82324bb6db2732c02ab570d9bf9619ee</sys_id>
-            <sys_mod_count>7</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:38</sys_updated_on>
-            <value>44</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Await Requestor</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>5</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:54:34</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>80428fb6db2732c02ab570d9bf961983</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:41</sys_updated_on>
-            <value>55</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint>Oracle Requests Request has been cancelled</hint>
-            <inactive>true</inactive>
-            <label>Cancelled</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>5</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>cfbef232db2732c02ab570d9bf961928</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-28 10:40:12</sys_updated_on>
-            <value>7</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint>Work could not be completed as specified</hint>
-            <inactive>true</inactive>
-            <label>Closed Incomplete</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>6</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>03bef232db2732c02ab570d9bf961928</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-28 10:40:12</sys_updated_on>
-            <value>4</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Await Vendor</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>6</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:54:41</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>4642cbb6db2732c02ab570d9bf961906</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:43</sys_updated_on>
-            <value>66</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Await IT</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>7</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:54:56</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>fb420b76db2732c02ab570d9bf96196d</sys_id>
-            <sys_mod_count>7</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:46</sys_updated_on>
-            <value>77</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>Pending</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>8</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:54:17</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>bf220b76db2732c02ab570d9bf96196c</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-28 10:47:52</sys_updated_on>
-            <value>3</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Resolved by IT</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>8</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:55:05</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>d752cfb6db2732c02ab570d9bf9619c5</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:48</sys_updated_on>
-            <value>88</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Resolved</label>
-            <language>en</language>
-            <name>x_spog_oracle_requests_request</name>
-            <sequence>9</sequence>
-            <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:55:13</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>2962c7b6db2732c02ab570d9bf961931</sys_id>
-            <sys_mod_count>6</sys_mod_count>
-            <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:51</sys_updated_on>
-            <value>99</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
             <hint>Oracle Requests Request is fully qualified but work has not started yet</hint>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>Ready</label>
             <language>en</language>
             <name>x_spog_oracle_requests_request</name>
-            <sequence>10</sequence>
+            <sequence>4</sequence>
             <sys_created_by>david.edgar</sys_created_by>
             <sys_created_on>2017-06-28 08:39:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>07bef232db2732c02ab570d9bf961924</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-29 15:15:39</sys_updated_on>
-            <value>-10</value>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Task is assigned, pending staff acceptance</hint>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_spog_oracle_requests_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3bef232db2732c02ab570d9bf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Work has started</hint>
+            <inactive>false</inactive>
+            <label>Work In Progress</label>
+            <language>en</language>
+            <name>x_spog_oracle_requests_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83bef232db2732c02ab570d9bf961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
+            <value>18</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -351,35 +142,54 @@
             <label>Closed Complete</label>
             <language>en</language>
             <name>x_spog_oracle_requests_request</name>
-            <sequence>10</sequence>
+            <sequence>7</sequence>
             <sys_created_by>david.edgar</sys_created_by>
             <sys_created_on>2017-06-28 08:39:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>43bef232db2732c02ab570d9bf961927</sys_id>
-            <sys_mod_count>5</sys_mod_count>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:27</sys_updated_on>
-            <value>-20</value>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
+            <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>state</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>Closed</label>
+            <hint>Work could not be completed as specified</hint>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
             <language>en</language>
             <name>x_spog_oracle_requests_request</name>
-            <sequence>10</sequence>
+            <sequence>8</sequence>
             <sys_created_by>david.edgar</sys_created_by>
-            <sys_created_on>2017-06-28 08:55:19</sys_created_on>
+            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>236203f6db2732c02ab570d9bf961953</sys_id>
-            <sys_mod_count>7</sys_mod_count>
+            <sys_id>03bef232db2732c02ab570d9bf961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 12:25:53</sys_updated_on>
-            <value>10</value>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint>Oracle Requests Request has been cancelled</hint>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_spog_oracle_requests_request</name>
+            <sequence>9</sequence>
+            <sys_created_by>david.edgar</sys_created_by>
+            <sys_created_on>2017-06-28 08:39:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfbef232db2732c02ab570d9bf961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.edgar</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:39:04</sys_updated_on>
+            <value>7</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>
@@ -388,8 +198,8 @@
             <sys_created_by>david.edgar</sys_created_by>
             <sys_created_on>2017-06-28 08:39:04</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>b6befefedbe332c02ab570d9bf96194a</sys_id>
-            <sys_mod_count>74</sys_mod_count>
+            <sys_id>94a8d24cdb74c3002ab570d9bf9619a8</sys_id>
+            <sys_mod_count>20</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="Oracle Finance Requests" source="x_spog_oracle_req">24bebebadbe332c02ab570d9bf9619b8</sys_package>
             <sys_policy/>
@@ -397,7 +207,7 @@
             <sys_scope display_value="Oracle Finance Requests">24bebebadbe332c02ab570d9bf9619b8</sys_scope>
             <sys_update_name>sys_choice_x_spog_oracle_requests_request_state</sys_update_name>
             <sys_updated_by>david.edgar</sys_updated_by>
-            <sys_updated_on>2017-06-30 14:19:51</sys_updated_on>
+            <sys_updated_on>2017-06-28 08:41:43</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

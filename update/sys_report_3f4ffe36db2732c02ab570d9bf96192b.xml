@@ -86,7 +86,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:41:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3f4ffe36db2732c02ab570d9bf96192b</sys_id>
         <sys_mod_count>11</sys_mod_count>
         <sys_name>Closed by Month Trend</sys_name>

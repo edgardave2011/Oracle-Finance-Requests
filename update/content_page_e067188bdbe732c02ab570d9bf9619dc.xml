@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="content_page" unload_date="2017-08-17 13:28:43">
+<record_update node_type="content_page" unload_date="2017-08-20 20:10:33">
     <sys_portal action="delete_multiple" query="page=e067188bdbe732c02ab570d9bf9619dc">
         <related_items_node>
             <sys_portal action="INSERT_OR_UPDATE">
@@ -17,7 +17,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>353cd443db2b32c02ab570d9bf96191d</sys_id>
@@ -29,7 +29,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>713cd443db2b32c02ab570d9bf96191d</sys_id>
@@ -41,7 +41,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>7d3cd443db2b32c02ab570d9bf96191d</sys_id>
@@ -53,7 +53,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>b93cd443db2b32c02ab570d9bf96191d</sys_id>
@@ -65,7 +65,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf96191d</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>f53cd443db2b32c02ab570d9bf96191d</sys_id>
@@ -92,7 +92,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>353cd443db2b32c02ab570d9bf961924</sys_id>
@@ -104,7 +104,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>713cd443db2b32c02ab570d9bf961924</sys_id>
@@ -116,7 +116,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>7d3cd443db2b32c02ab570d9bf961924</sys_id>
@@ -128,7 +128,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>b93cd443db2b32c02ab570d9bf961924</sys_id>
@@ -140,7 +140,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">313cd443db2b32c02ab570d9bf961924</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>f53cd443db2b32c02ab570d9bf961924</sys_id>
@@ -167,7 +167,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>393cd443db2b32c02ab570d9bf961922</sys_id>
@@ -179,7 +179,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>713cd443db2b32c02ab570d9bf961923</sys_id>
@@ -191,7 +191,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>753cd443db2b32c02ab570d9bf961922</sys_id>
@@ -203,7 +203,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>bd3cd443db2b32c02ab570d9bf961922</sys_id>
@@ -215,7 +215,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">353cd443db2b32c02ab570d9bf961922</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>f93cd443db2b32c02ab570d9bf961922</sys_id>
@@ -242,7 +242,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>3d3cd443db2b32c02ab570d9bf961920</sys_id>
@@ -254,7 +254,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>753cd443db2b32c02ab570d9bf961921</sys_id>
@@ -266,7 +266,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>793cd443db2b32c02ab570d9bf961920</sys_id>
@@ -278,7 +278,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>b13cd443db2b32c02ab570d9bf961921</sys_id>
@@ -290,7 +290,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">393cd443db2b32c02ab570d9bf961920</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>fd3cd443db2b32c02ab570d9bf961920</sys_id>
@@ -317,7 +317,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>313cd443db2b32c02ab570d9bf96191f</sys_id>
@@ -329,7 +329,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>793cd443db2b32c02ab570d9bf96191f</sys_id>
@@ -341,7 +341,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>7d3cd443db2b32c02ab570d9bf96191e</sys_id>
@@ -353,7 +353,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>b53cd443db2b32c02ab570d9bf96191f</sys_id>
@@ -365,7 +365,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf96191e</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>f13cd443db2b32c02ab570d9bf96191f</sys_id>
@@ -392,7 +392,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>023cd443db2b32c02ab570d9bf961926</sys_id>
@@ -404,7 +404,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>4a3cd443db2b32c02ab570d9bf961926</sys_id>
@@ -416,7 +416,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>7d3cd443db2b32c02ab570d9bf961925</sys_id>
@@ -428,7 +428,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>863cd443db2b32c02ab570d9bf961926</sys_id>
@@ -440,7 +440,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 28/06/2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
+                        <portal_section display_value="Created 28-06-2017 16:27:30">3d3cd443db2b32c02ab570d9bf961925</portal_section>
                         <sys_created_by>david.edgar</sys_created_by>
                         <sys_created_on>2017-06-28 15:27:30</sys_created_on>
                         <sys_id>c23cd443db2b32c02ab570d9bf961926</sys_id>
@@ -471,7 +471,7 @@
         <sys_class_name>content_page</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 15:07:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e067188bdbe732c02ab570d9bf9619dc</sys_id>

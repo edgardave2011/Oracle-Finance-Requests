@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:40:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ebfe32f2db2732c02ab570d9bf96198f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_spog_oracle_req.work.spacing</sys_name>

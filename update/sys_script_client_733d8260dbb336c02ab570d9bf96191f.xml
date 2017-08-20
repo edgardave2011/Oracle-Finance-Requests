@@ -30,7 +30,7 @@ var inciRef = x_spog_oracle_req_u_incident_ref;
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-07-03 15:33:19</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>733d8260dbb336c02ab570d9bf96191f</sys_id>

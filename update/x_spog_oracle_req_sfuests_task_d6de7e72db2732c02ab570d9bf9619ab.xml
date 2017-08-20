@@ -31,11 +31,11 @@
         <read_only_fields/>
         <roles/>
         <start_text>1</start_text>
-        <starting_state display_value="New">8fbef232db2732c02ab570d9bf961929</starting_state>
+        <starting_state display_value="Draft">8fbef232db2732c02ab570d9bf961929</starting_state>
         <sys_class_name>x_spog_oracle_req_sfuests_task</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:39:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d6de7e72db2732c02ab570d9bf9619ab</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Assigned</sys_name>

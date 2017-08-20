@@ -17,11 +17,11 @@
         <number_ref display_value="OFTASK">992f3a36db2732c02ab570d9bf96195e</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Service Order Task" name="sm_task">8067c0dedbd532006d11f1eabf961980</super_class>
+        <super_class display_value="Service Order Task" name="sm_task">cfa463fadb9976c0f2fd7b9dae9619f2</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:38:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>65bebafedbe332c02ab570d9bf9619b4</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Oracle Requests Task</sys_name>

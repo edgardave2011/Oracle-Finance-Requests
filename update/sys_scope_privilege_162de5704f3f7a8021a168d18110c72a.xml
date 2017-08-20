@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-07-04 07:50:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>162de5704f3f7a8021a168d18110c72a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Glide API: user roles and groups</sys_name>

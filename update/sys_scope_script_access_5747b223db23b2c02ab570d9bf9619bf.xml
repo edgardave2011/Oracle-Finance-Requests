@@ -131,7 +131,7 @@
         <sys_class_name>sys_scope_script_access</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-30 16:02:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5747b223db23b2c02ab570d9bf9619bf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Workflow</sys_name>

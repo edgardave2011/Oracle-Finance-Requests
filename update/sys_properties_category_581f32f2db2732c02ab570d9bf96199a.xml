@@ -5,7 +5,7 @@
         <sys_class_name>sys_properties_category</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:40:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>581f32f2db2732c02ab570d9bf96199a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Oracle Requests Geolocation</sys_name>

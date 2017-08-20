@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-08-15 14:10:30</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bde693164f240f0021a168d18110c775</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Can We Help You?.Oracle Request/Issue</sys_name>

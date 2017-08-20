@@ -59,7 +59,7 @@ producer.redirect = 'ticket_redirect.do?sysparm_number=' + current.number;
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 11:22:22</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4f142bfedb6732c02ab570d9bf96199e</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>Oracle Request/Issue</sys_name>

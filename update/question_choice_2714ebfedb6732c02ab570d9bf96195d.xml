@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 11:22:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2714ebfedb6732c02ab570d9bf96195d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Missing Data - BSUS</sys_name>

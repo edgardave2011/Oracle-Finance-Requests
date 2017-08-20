@@ -18,7 +18,7 @@
         <sys_class_name>sys_gauge</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:41:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>805ffe36db2732c02ab570d9bf96192e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CI maintenance tasks by building / space </sys_name>

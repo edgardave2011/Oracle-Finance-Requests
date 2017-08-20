@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>huey.kam@snc</sys_created_by>
         <sys_created_on>2017-07-02 06:04:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>34c107c04ffb3a8021a168d18110c72f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sys_push_notif_act_script</sys_name>

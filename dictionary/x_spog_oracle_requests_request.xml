@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true" audit="true" extends="sm_order" label="Oracle Finance Requests" max_length="40" name="x_spog_oracle_requests_request" sizeclass="57" type="collection">
+    <element attributes="email_client=true" audit="true" extends="sm_order" label="Oracle Finance Requests" max_length="40" name="x_spog_oracle_requests_request" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Application (hiden for non-admin)" max_length="40" name="x_spog_oracle_req_application" type="string">
             <choice>
                 <element label="Hubble" sequence="0" value="Hubble"/>

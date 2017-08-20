@@ -12,7 +12,7 @@
         <comment>Oracle Requests Request initial request state</comment>
         <derived_from display_value="Initial State">2bdb345547232100158b949b6c9a7116</derived_from>
         <end_text>1</end_text>
-        <ending_state display_value="New">fabefefedbe332c02ab570d9bf961949</ending_state>
+        <ending_state display_value="Draft">fabefefedbe332c02ab570d9bf961949</ending_state>
         <event/>
         <event_rule/>
         <mandatory_fields/>
@@ -33,7 +33,7 @@
         <sys_class_name>x_spog_oracle_req_sfuests_request</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:39:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a0de3672db2732c02ab570d9bf9619e4</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Initial State</sys_name>

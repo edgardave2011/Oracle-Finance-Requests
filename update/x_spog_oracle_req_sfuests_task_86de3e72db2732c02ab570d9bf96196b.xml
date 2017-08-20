@@ -12,7 +12,7 @@
         <comment>Oracle Requests Request State flow</comment>
         <derived_from display_value="Request More Information">61feb353df312100dca6a5f59bf263e5</derived_from>
         <end_text>1</end_text>
-        <ending_state display_value="New">8fbef232db2732c02ab570d9bf961929</ending_state>
+        <ending_state display_value="Draft">8fbef232db2732c02ab570d9bf961929</ending_state>
         <event/>
         <event_rule/>
         <mandatory_fields/>
@@ -33,7 +33,7 @@
         <sys_class_name>x_spog_oracle_req_sfuests_task</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:39:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>86de3e72db2732c02ab570d9bf96196b</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Request More Information</sys_name>

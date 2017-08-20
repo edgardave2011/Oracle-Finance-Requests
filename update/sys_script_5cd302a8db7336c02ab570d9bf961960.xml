@@ -43,7 +43,7 @@ function resolveOracleFinanceRecord() {
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-07-03 14:55:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5cd302a8db7336c02ab570d9bf961960</sys_id>

@@ -35,7 +35,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:41:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7e5ffe36db2732c02ab570d9bf9619aa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Oracle Requests Dispatchers</sys_name>

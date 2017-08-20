@@ -17,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Service Task Model" name="cmdb_servicetask_product_model">2867c0dedbd532006d11f1eabf9619d5</super_class>
+        <super_class display_value="Service Task Model" name="cmdb_servicetask_product_model">bba467fadb9976c0f2fd7b9dae961932</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:39:02</sys_created_on>

@@ -12,7 +12,7 @@
         <sys_class_name>sys_script_fix</sys_class_name>
         <sys_created_by>david.edgar</sys_created_by>
         <sys_created_on>2017-06-28 08:39:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7adefe72db2732c02ab570d9bf961956</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Oracle Requests State Flow Builder</sys_name>
